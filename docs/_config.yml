@@ -23,16 +23,15 @@ github_username: TNTU-121-Softwere-Engineering
 description: >- # this means to ignore newlines until "baseurl:"
   Web-source of github pages which describe project of se41 group 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: @kolyaratishin
-github_username:  @sorokivski
+url: "https://tntu-121-software-engineering.github.io/se41.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme
+- jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
