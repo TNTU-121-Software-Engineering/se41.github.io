@@ -3,16 +3,19 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<link href="{{ 'assets/css/custom-theme.css' | relative_url }}" rel="stylesheet">
 
 
-[jekyll-organization]: https://github.com/jekyll
+You can contact students at Telegram:
+   - [Kolya Ratyshin](https://t.me/kolya_ratyshyn)
+   - [Nadiia Sorokivska](https://t.me/sorokivski)
+
+Links to the GitHub Profiles:
+   - [Kolya Ratyshin](https://github.com/sorokivski)
+   - [Nadiia Sorokivska](https://github.com/kolyaratishin)
+
+TNTU GitHub Profile:
+[tntu-organization](https://github.com/TNTU-121-Software-Engineering)
+
+TNTU Website:
+[tntu.edu.ua](https://tntu.edu.ua)
