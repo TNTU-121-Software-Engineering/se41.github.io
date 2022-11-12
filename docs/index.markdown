@@ -56,7 +56,7 @@ layout: home
       </a>
     </li>
     <li>
-      <a href="/docs/pages/st1.html" class="card">
+      <a href="{{ site.url }}{{ site.baseurl }}/pages/st1.html" class="card">
         <img src="assets/images/img2.jpg" class="card__image" alt="" />
         <div class="card__overlay">
           <div class="card__header">

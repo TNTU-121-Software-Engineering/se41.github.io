@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 <link href="{{ 'assets/css/custom-theme.css' | relative_url }}" rel="stylesheet">
-
+<link rel="stylesheet" href="/docs/assets/css/custom-theme.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom-theme.css">
+<link rel="stylesheet" href="{{ '/assets/css/custom-theme.css' | relative_url }}">
 
 You can contact students at Telegram:
    - [Kolya Ratyshin](https://t.me/kolya_ratyshyn)
