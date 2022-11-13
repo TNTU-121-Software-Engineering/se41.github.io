@@ -3,7 +3,7 @@
 
 #### project devoted to learn GitHub pages by se41 group
 #### Current tasks:
-- [ ] #1 - add main page
+- [x] #1 - add main page
 - [ ] #2 - add additional pages
 
 
