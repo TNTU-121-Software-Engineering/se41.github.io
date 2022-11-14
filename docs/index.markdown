@@ -78,7 +78,7 @@ layout: home
           <div class="card__header">
             <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
       
- <img class="card__thumb" src="assets/images/img5.png" alt="" /> 
+ <img class="card__thumb" src="assets/images/gif2.gif" alt="" /> 
          
    <div class="card__header-text">
               <h3 class="card__title">:Olexandr Martyniv:</h3>
