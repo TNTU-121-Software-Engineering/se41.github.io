@@ -81,7 +81,7 @@ layout: home
  <img class="card__thumb" src="assets/images/gif2.gif" alt="" /> 
          
    <div class="card__header-text">
-              <h3 class="card__title">:Olexandr Martyniv:</h3>
+              <h3 class="card__title">Olexandr Martyniv</h3>
               <span class="card__tagline"> </span>            
               <span class="card__status">student, group SE-42</span>
             </div>
