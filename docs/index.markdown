@@ -72,7 +72,7 @@ layout: home
       </a>
     </li>
     <li>
-      <a href="{{ site.url }}{{ site.baseurl }}/pages/about1.markdown" class="card">
+      <a href="{{ site.url }}{{ site.baseurl }}pages/about1.markdown" class="card">
         <img src="assets/images/gif2.gif" class="card__image" alt="" />
         <div class="card__overlay">
           <div class="card__header">
