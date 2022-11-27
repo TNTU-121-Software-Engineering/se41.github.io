@@ -1,6 +1,7 @@
-
 ---
+
 layout: default
+
 ---
 
 # Some page right here with content about student or whatsoever
