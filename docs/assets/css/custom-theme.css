@@ -54,8 +54,8 @@ body {
 }
 
 .card__image {      
-  width: 100%;
-  height: auto;
+  width: auto;
+  height: 100%;
   object-fit: contain;
 	position: relative;
 	background-position: center;
