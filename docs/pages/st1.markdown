@@ -9,7 +9,7 @@ Some page right here with content about student or whatsoever
 <div class ="content">
     <ul class="cards">
         <li>
-<a class="card" >
+<a class="card" style="width: fit-content; ">
     <img src="assets/images/img1.png" class="card_image" alt="" />
     <div class="card__overlay">
       <div class="card__header">
