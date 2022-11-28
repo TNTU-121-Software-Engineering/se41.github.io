@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### head-student of SE-41 group
+#### Vitaliy Gerasym head-student of SE-41 group
 
 ### Page Content
 
