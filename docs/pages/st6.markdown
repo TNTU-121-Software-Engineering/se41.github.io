@@ -11,11 +11,11 @@ layout: default
     <ul class="cards">
         <li>
 <a class="card" style="width: fit-content; ">
-    <img src="assets/images/VovKiKavyN.png" class="card_image" alt="" />
+    <img src="assets/images/VovKiKavyN.jpg" class="card_image" alt="" />
     <div class="card__overlay">
       <div class="card__header">
         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
-        <img class="card__thumb" src="assets/images/VovKiKavyN.png" alt="" />
+        <img class="card__thumb" src="assets/images/VovKiKavyN.jpg" alt="" />
         <div class="card__header-text">
           <h3 class="card__title">Card Title</h3>            
           <span class="card__status">elder, group: SE-42</span>
