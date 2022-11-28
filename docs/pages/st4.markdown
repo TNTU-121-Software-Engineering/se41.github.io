@@ -2,7 +2,6 @@
 layout: default
 ---
 
-### Vetal 
 #### head-student of SE-41 group
 
 ### Page Content
