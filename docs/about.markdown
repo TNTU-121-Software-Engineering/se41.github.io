@@ -12,8 +12,8 @@ You can contact students at Telegram:
    - [Nadiia Sorokivska](https://t.me/sorokivski)
 
 Links to the GitHub Profiles:
-   - [Kolya Ratyshin](https://github.com/sorokivski)
-   - [Nadiia Sorokivska](https://github.com/kolyaratishin)
+   - [Kolya Ratyshin](https://github.com/kolyaratishin)
+   - [Nadiia Sorokivska](https://github.com/sorokivski)
 
 TNTU GitHub Profile:
 [tntu-organization](https://github.com/TNTU-121-Software-Engineering)
