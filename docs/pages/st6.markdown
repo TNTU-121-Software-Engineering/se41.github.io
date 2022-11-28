@@ -10,8 +10,8 @@ layout: default
  <div class ="content">
     <ul class="cards">
         <li>
-<a class="card" style="width: fit-content; ">
-    <img src="assets/images/cuteCat.jpg" width:fit-content class="card_image" alt="" />
+<a class="card">
+    <img src="assets/images/cuteCat.jpg" class="card_image" alt="" />
     <div class="card__overlay">
       <div class="card__header">
         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
