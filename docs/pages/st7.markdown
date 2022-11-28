@@ -4,7 +4,7 @@ layout: default
 
 ---
 
-My dog Lucky. He's 3 years old.
+
 <html>
 <div class ="content">
     <ul class="cards">
@@ -20,7 +20,7 @@ My dog Lucky. He's 3 years old.
           <span class="card__status">student Vasyl Moskalyk, group: SE-41</span>
         </div>
       </div>
-      <p class="card__description"> Description</p>
+      <p class="card__description"> My dog Lucky. He's 3 years old.</p>
     </div>
   </a>  
   </li>
