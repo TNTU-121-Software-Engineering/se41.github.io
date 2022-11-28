@@ -5,7 +5,7 @@ layout: default
 ---
 
 <html>
-  <h1>Best Elder of the best Group</h1>
+  <h1>Best Elder of the best group</h1>
   
  <div class ="content">
     <ul class="cards">
