@@ -86,7 +86,7 @@ i "pages/st[].html" як там вже є
 
 В файлі [about.markdown](https://github.com/TNTU-121-Software-Engineering/se41.github.io/blob/GitHub_Pages/docs/about.markdown) дописуємо своє ймення і посилання на сторінки:
 
-![image](https://user-images.githubusercontent.com/65286819/204227844-b673dca5-b5b8-4749-ad44-724998f623bb.png)
+![image](https://user-images.githubusercontent.com/65286819/204240375-6d9dc5b2-3320-4b90-b842-0c27b30dd966.png)
 
 
 
