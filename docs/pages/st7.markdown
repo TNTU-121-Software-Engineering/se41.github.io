@@ -4,8 +4,9 @@ layout: default
 
 ---
 
-Some page right here with content about student or whatsoever
+My dog Lucky. He's 3 years old.
 <html>
+    <img src="assets/images/img_lucky2.jpg" class="card_image" alt="" />
 <div class ="content">
     <ul class="cards">
         <li>
