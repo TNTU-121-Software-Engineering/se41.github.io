@@ -4,7 +4,7 @@ layout: default
 
 ---
 
-<h1> Ihor's dog </h1>
+<h1>Student of the best group with best Elder</h1>
 <html>
 <div class ="content">
     <ul class="cards">
