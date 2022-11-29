@@ -10,7 +10,7 @@ layout: default
  <div class ="content">
     <ul class="cards">
         <li>
-<a class="card">
+<a class="card" style="width: fit-content; ">
     <img src="assets/images/cuteCat.jpg" class="card_image" alt="" />
     <div class="card__overlay">
       <div class="card__header">
