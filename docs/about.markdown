@@ -11,11 +11,13 @@ You can contact students at Telegram:
    - [Kolya Ratyshin](https://t.me/kolya_ratyshyn)
    - [Nadiia Sorokivska](https://t.me/sorokivski)
    - [Vasyl Moskalyk](https://t.me/moskalyk_v)
+   - [Ihor Shtohryn](https://t.me/ihor_shtohryn)
 
 Links to the GitHub Profiles:
    - [Kolya Ratyshin](https://github.com/kolyaratishin)
    - [Nadiia Sorokivska](https://github.com/sorokivski)
    - [Vasyl Moskalyk](https://github.com/MoskalykVasyl)
+   - [Ihor Shtohryn](https://github.com/ihor_shto)
 
 TNTU GitHub Profile:
 [tntu-organization](https://github.com/TNTU-121-Software-Engineering)
