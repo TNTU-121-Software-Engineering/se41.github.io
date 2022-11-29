@@ -6,7 +6,7 @@
 - [ ] #2 - add additional pages
 
 
-## Інструкція із додання сторінок студенів
+## Інструкція із додання сторінок студентів
 1. ## Додання самої сторінки
 створити сторінку st[далі довільна послідовність символів].markdown із даними розмістити в каталозі https://github.com/TNTU-121-Software-Engineering/se41.github.io/tree/GitHub_Pages/docs/pages
 
@@ -24,7 +24,7 @@ layout: default
 
 далі розмістити текст та зображення в одному із форматів:
   + форматі markdown, як у прикладах [st2.markdown](https://github.com/TNTU-121-Software-Engineering/se41.github.io/blob/GitHub_Pages/docs/pages/st2.markdown) та [st4.markdown](https://github.com/TNTU-121-Software-Engineering/se41.github.io/blob/GitHub_Pages/docs/pages/st4.markdown)
-  + додати код html як у прикладі [st1.markdown](https://github.com/TNTU-121-Software-Engineering/se41.github.io/blob/GitHub_Pages/docs/pages/st1.markdown) //зображення та інші ресурси (js, css) можна розмістити у директорії pages/assets/
+  + додати код html як у прикладі [st1.markdown](https://github.com/TNTU-121-Software-Engineering/se41.github.io/blob/GitHub_Pages/docs/pages/st1.markdown) > ❗️зображення та інші ресурси (js, css) в такому разі розмістити у директорії docs/pages/assets/ ❗️
  
 ![image](https://user-images.githubusercontent.com/65286819/204229934-24d031c8-7179-4e99-be83-880a1f76d626.png)
 
@@ -82,6 +82,7 @@ layout: default
 i "pages/st[].html" як там вже є
 
  ![image](https://user-images.githubusercontent.com/65286819/204227106-01c4c1c6-a56f-4e90-81b2-94633f7dffb8.png)
+ 
 
 
 В файлі [about.markdown](https://github.com/TNTU-121-Software-Engineering/se41.github.io/blob/GitHub_Pages/docs/about.markdown) дописуємо своє ймення і посилання на сторінки:
@@ -90,4 +91,4 @@ i "pages/st[].html" як там вже є
 
 
 
-
+![sticker](https://user-images.githubusercontent.com/65286819/204669757-f807c3f0-b09e-40ed-84f6-b40644542792.jpg)
