@@ -16,7 +16,7 @@ layout: default
         <img class="card__thumb" src="assets/images/NiceDog.gif" alt="Puppy)" />
         <div class="card__header-text">
           <h3 class="card__title">Martyniv O.S.</h3>            
-          <span class="card__status">Martyniv O.S., group: SE-42</span>
+          <span class="card__status">Student, group: SE-42</span>
         </div>
       </div>
       <p class="card__description">There should be a cool description here, but the dog above said it all)</p>
