@@ -4,7 +4,7 @@ layout: default
 
 ---
 
-Some page right here with content about student or whatsoever
+Page of student Mykola Ratyshyn. Group: SE-41
 <html>
 <div class ="content">
     <ul class="cards">
