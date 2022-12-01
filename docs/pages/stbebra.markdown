@@ -8,7 +8,7 @@ Very fainyi koc
     <ul class="cards">
         <li>
 <a class="card" style="width: fit-content; ">
-    <img src="assets/images/Fainyi_Koc.jpg" class="card_image" alt="" />
+    <img src="assets/images/Fainyi_Koc.jpg" class="card_image" alt="Kyca" />
       <p class="card__description"> Kociumba</p>
     </div>
   </a>  
