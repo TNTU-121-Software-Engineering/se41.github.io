@@ -13,14 +13,16 @@ You can contact students at Telegram:
    - [Vasyl Moskalyk](https://t.me/moskalyk_v)
    - [Ihor Shtohryn](https://t.me/ihor_shtohryn)
    - [Olexandr Martyniv](https://t.me/inertiared)
-
+   - [Dmytro Romaniuk](https://t.me/DemetriusAsh)
+   - 
 Links to the GitHub Profiles:
    - [Kolya Ratyshin](https://github.com/kolyaratishin)
    - [Nadiia Sorokivska](https://github.com/sorokivski)
    - [Vasyl Moskalyk](https://github.com/MoskalykVasyl)
    - [Ihor Shtohryn](https://github.com/ihor_shto)
    - [Olexandr Martyniv](https://github.com/AlexanderZero435)
-
+   - [Dmytro Romaniuk](https://github.com/DmytroRomaniukUA)
+   - 
 TNTU GitHub Profile:
 [tntu-organization](https://github.com/TNTU-121-Software-Engineering)
 
