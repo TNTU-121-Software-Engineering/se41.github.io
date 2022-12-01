@@ -11,6 +11,7 @@ st7: "pages/st7.html"
 st8: "pages/st8.html"
 st9: "pages/st9.html"
 st10: "pages/st10.html"
+stbebra: "pages/stbebra.html"
 ---
 
  {% include index.html %}
