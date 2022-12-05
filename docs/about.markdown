@@ -14,6 +14,7 @@ You can contact students at Telegram:
    - [Ihor Shtohryn](https://t.me/ihor_shtohryn)
    - [Olexandr Martyniv](https://t.me/inertiared)
    - [Dmytro Romaniuk](https://t.me/DemetriusAsh)
+   - [Sviatoslav Vintoniv](https://t.me/Sviatoslav_Vin)
   
   
 Links to the GitHub Profiles:
@@ -23,6 +24,7 @@ Links to the GitHub Profiles:
    - [Ihor Shtohryn](https://github.com/ihor_shto)
    - [Olexandr Martyniv](https://github.com/AlexanderZero435)
    - [Dmytro Romaniuk](https://github.com/DmytroRomaniukUA)
+   - [Sviatoslav Vintoniv](https://github.com/Sviatoslav25)
  
  
 TNTU GitHub Profile:
